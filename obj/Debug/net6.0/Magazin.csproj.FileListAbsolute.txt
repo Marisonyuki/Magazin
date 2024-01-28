@@ -1,0 +1,14 @@
+C:\Users\Doratorio\source\repos\Magazin\bin\Debug\net6.0\Magazin.exe
+C:\Users\Doratorio\source\repos\Magazin\bin\Debug\net6.0\Magazin.deps.json
+C:\Users\Doratorio\source\repos\Magazin\bin\Debug\net6.0\Magazin.runtimeconfig.json
+C:\Users\Doratorio\source\repos\Magazin\bin\Debug\net6.0\Magazin.dll
+C:\Users\Doratorio\source\repos\Magazin\bin\Debug\net6.0\Magazin.pdb
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfoInputs.cache
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfo.cs
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.dll
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\refint\Magazin.dll
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.pdb
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\Magazin.genruntimeconfig.cache
+C:\Users\Doratorio\source\repos\Magazin\obj\Debug\net6.0\ref\Magazin.dll
